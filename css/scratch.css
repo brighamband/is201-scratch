@@ -46,11 +46,11 @@ body {
 }
 
 .red-text {
-  color: red;
+  color: rgb(179, 33, 33);
 }
 
 .blue-text {
-  color: blue;
+  color: rgb(20, 20, 180);
 }
 
 .go-back {
